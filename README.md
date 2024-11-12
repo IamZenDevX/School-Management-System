@@ -29,11 +29,12 @@ The **Student Management System (SMS)** is a Complete program designed to effici
 
 <h2 align="left">Tools Used:</h2>
 
-![Zendevx Technology.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3f690236-03bd-47db-ac0f-28b089483950/08d9df57-b114-4701-bd1c-89548cd3661c/Zendevx_Technology.png)
+![Zendevx Technology](https://github.com/user-attachments/assets/36c979fe-929e-44a4-8958-9c15dc466e35)
+
 
 <h2 align="left"> Testing Tools Used:</h2>
 
-![PostMan Github.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3f690236-03bd-47db-ac0f-28b089483950/0d6d1c89-f506-4ac0-8d04-9f5ff3d35244/PostMan_Github.png)
+![PostMan Github](https://github.com/user-attachments/assets/3381c639-715f-40b9-85d3-08384553ee12)
 
 <h2 align="left">Library:</h2>
 
