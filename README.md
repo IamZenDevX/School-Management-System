@@ -210,7 +210,7 @@ The platform will require a relational database to manage Purchase Order and Ite
     - **View Transaction History**: Track borrowing and return history in Transaction Management using either user or book.
     - **Overdue Alerts**: Examine past-due records and, if needed, notify customers or apply penalties.
 
-<h2 align="left">Development with ZenDevx:</h2>
+<h2 align="left">Development with ZenDevx:</h2> 
 <a href="https://www.zendevx.com/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/7dd7220f-e83c-4490-9ac2-beab3bcf8c35" alt="ZenDevX" height="auto" width="auto" /></a>
 <h2 align="left">🐦 Connect With Me:</h2>
 
