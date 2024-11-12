@@ -197,7 +197,7 @@ The platform will require a relational database to manage Purchase Order and Ite
 
 1. **User Registration and Management**
     - **Add/Update/Delete Users**: User registration and administration allows you to register, change, or delete fresh system users.
-    - **User Roles**: Assign roles—normal or administrative user—then exercise user rights.
+    - **User Roles**: Assign roles normal or administrative user then exercise user rights.
 2. **Book Management**
     - **Add/Update/Delete Books**: add new books, change existing entries, or delete old ones.
     - **Search Books**: Search author; book names, genre; availability; classification;
