@@ -1,4 +1,4 @@
-# SMS
+# School Management System
 <h2 align="left">Introduction:</h2>
 
 The **Student Management System (SMS)** is a Complete program designed to efficiently regulate several aspects of a university or other learning environment. By means of a single platform, this system maximizes operations and increases communication, so permitting perfect interactions between several user roles: **teachers, students, administrators, and non-teaching staff**. SMS lets simple handling of attendance, salary processing, and fee administration guarantees a controlled and user-friendly experience.
