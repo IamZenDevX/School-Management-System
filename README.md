@@ -1,7 +1,7 @@
 # School Management System
 <h2 align="left">Introduction:</h2>
 
-The **Student Management System (SMS)** is a Complete program designed to efficiently regulate several aspects of a university or other learning environment. By means of a single platform, this system maximizes operations and increases communication, so permitting perfect interactions between several user roles: **teachers, students, administrators, and non-teaching staff**. SMS lets simple handling of attendance, salary processing, and fee administration guarantees a controlled and user-friendly experience.
+The **School Management System (SMS)** is a Complete program designed to efficiently regulate several aspects of a university or other learning environment. By means of a single platform, this system maximizes operations and increases communication, so permitting perfect interactions between several user roles: **teachers, students, administrators, and non-teaching staff**. SMS lets simple handling of attendance, salary processing, and fee administration guarantees a controlled and user-friendly experience.
 
 <h2 align="left"> Features:</h2>
 
@@ -52,7 +52,7 @@ The **Student Management System (SMS)** is a Complete program designed to effici
 
 <h2 align="left"> 1. Database Structure</h2>
 
-The platform will require a relational database to manage Purchase Order and Items . Below is a proposed database structure with the key tables.
+The platform will require a relational database to manage database . Below is a proposed database structure with the key tables.
 
 ### **Tables**:
 
