@@ -30,7 +30,7 @@ app.listen(PORT, () => {
   console.log("I am live again");
 });
 
-const uri = `mongodb+srv://admin01:admin01@cluster0.rei7tip.mongodb.net/school_management?retryWrites=true&w=majority&appName=Cluster0`;
+const uri = `mongodb+srv://name:password@cluster0.rei7tip.mongodb.net/school_management?retryWrites=true&w=majority&appName=Cluster0`;
 mongoose.connect(uri, { useNewUrlParser: true, useUnifiedTopology: true }).then(() => {
   console.log("Succesfull")
 
