@@ -52,7 +52,7 @@ The **School Management System (SMS)** is a Complete program designed to efficie
 
 <h2 align="left"> 1. Database Structure</h2>
 
-The platform will require a relational database to manage database . Below is a proposed database structure with the key tables.
+The platform will require a relational database to manage Admin, Non-Teaching Staff Attendance, Non Teaching Staff, non Teaching Staff Salary, student Attendance, student Fees, student, teacher Attendance,teacher,teachersalary. Below is a proposed database structure with the key tables.
 
 ### **Tables**:
 
